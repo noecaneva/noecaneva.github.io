@@ -34,6 +34,6 @@ cyber threats at an event hosted by Google Switzerland.
 **Interests:** AI safety and adversarial ML, scientific ML and numerical methods, high-performance
 computing, security research.
 
-I'm currently looking for research and engineering roles in the San Francisco Bay Area.
+I'm currently looking for research and engineering roles.
 Feel free to reach out by [email](mailto:n.canevascini@gmail.com) or on
 [LinkedIn](https://www.linkedin.com/in/noe-canevascini/).
